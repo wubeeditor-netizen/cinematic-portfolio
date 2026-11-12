@@ -1,5 +1,19 @@
 [
   {
+    "slug": "magnetsmedia-1",
+    "title": "MagnetsMedia Style Vol. 1",
+    "category": "Documentary",
+    "description": "Dark cinematic grading and 2.5D parallax editing.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/19iv_0xiM3lG6GTDrn66TOtpgQskGFVal/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": true,
+    "status": "published",
+    "order": 1
+  },
+  {
     "slug": "magnetsmedia-documentary",
     "title": "MagnetsMedia Documentary",
     "category": "Documentary",
@@ -27,5 +41,288 @@
     "featured": true,
     "status": "published",
     "order": 1
+  },
+  {
+    "slug": "magnetsmedia-2",
+    "title": "MagnetsMedia Style Vol. 2",
+    "category": "Documentary",
+    "description": "Investigation boards and dramatic pacing.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1nG7wwDMIDkhqkTIpcFmJ0_Dy2K3y1JNx/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 2
+  },
+  {
+    "slug": "magnetsmedia-3",
+    "title": "MagnetsMedia Style Vol. 3",
+    "category": "Documentary",
+    "description": "Glowing text accents and sound design.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1Ogy2mrOPBZswKSKMr_HN1KKO96AWuhDK/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 3
+  },
+  {
+    "slug": "magnetsmedia-4",
+    "title": "MagnetsMedia Style Vol. 4",
+    "category": "Documentary",
+    "description": "Cinematic documentary storytelling.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1swxLYD4lSsERqXDm54fiITgzLeHTTOJY/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 4
+  },
+  {
+    "slug": "magnetsmedia-5",
+    "title": "MagnetsMedia Style Vol. 5",
+    "category": "Documentary",
+    "description": "Dynamic transitions and emotional pacing.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1l-BSCKpVwBR-VOz_a4PTW7txSmJPz9WY/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 5
+  },
+  {
+    "slug": "magnetsmedia-6",
+    "title": "MagnetsMedia Style Vol. 6",
+    "category": "Documentary",
+    "description": "Documentary style edit.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1lcODLvHV9jMzJVtVhDJsMWiwc-B3Bu4y/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 6
+  },
+  {
+    "slug": "magnetsmedia-7",
+    "title": "MagnetsMedia Style Vol. 7",
+    "category": "Documentary",
+    "description": "High-end documentary edit.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1hUP7csUSPbBK01KQmeYnyJ8kBMj6WKNI/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 7
+  },
+  {
+    "slug": "magnetsmedia-8",
+    "title": "MagnetsMedia Style Vol. 8",
+    "category": "Documentary",
+    "description": "Cinematic documentary vibes.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1EsOgZ-b_hrMESISILjvbmADORC_pvV_W/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 8
+  },
+  {
+    "slug": "magnetsmedia-9",
+    "title": "MagnetsMedia Style Vol. 9",
+    "category": "Documentary",
+    "description": "Final documentary cut.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/19Z8h2OL37sUxYu6oDhR3k_Czyi6lvvNR/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 9
+  },
+  {
+    "slug": "magnetsmedia-10",
+    "title": "MagnetsMedia Style Vol. 10",
+    "category": "Documentary",
+    "description": "Bonus documentary edit.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1KFUMqfGnGMGKYy5AoLehOYt_g6miJ2P4/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 10
+  },
+  {
+    "slug": "motion-1",
+    "title": "Motion Graphics Vol. 1",
+    "category": "Motion Graphics",
+    "description": "Mixed-media paper cutouts and kinetic typography.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1znd_IyTcEYUM1-32ELkY2uWYLrsnLFqK/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": true,
+    "status": "published",
+    "order": 11
+  },
+  {
+    "slug": "motion-2",
+    "title": "Motion Graphics Vol. 2",
+    "category": "Motion Graphics",
+    "description": "Animated vector icons and dynamic transitions.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1_40w5cBdMQI4ZDIBkicSio6PUwroVrYF/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 12
+  },
+  {
+    "slug": "motion-3",
+    "title": "Motion Graphics Vol. 3",
+    "category": "Motion Graphics",
+    "description": "Kinetic typography showcase.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/16rC_LhIzlKS5Ri6ys9zDNI_Hx1-WLp1k/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 13
+  },
+  {
+    "slug": "motion-4",
+    "title": "Motion Graphics Vol. 4",
+    "category": "Motion Graphics",
+    "description": "Speed-ramped transitions.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1_acx29nSKRHTSsxvnG_5Z_d6QTEPdaC0/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 14
+  },
+  {
+    "slug": "motion-5",
+    "title": "Motion Graphics Vol. 5",
+    "category": "Motion Graphics",
+    "description": "Dynamic visual effects.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1Ftio4bEIFA2bnp9-fJFzeliqrFdUqv4e/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 15
+  },
+  {
+    "slug": "geo-1",
+    "title": "Geography Documentary Vol. 1",
+    "category": "3D Map & Geography",
+    "description": "Extruded 3D terrain flyovers and glowing routes.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/16p9BXec4jcwxfStNWwUmougP-6eqyrVF/view",
+    "software": [
+      "After Effects",
+      "Google Earth Studio"
+    ],
+    "featured": true,
+    "status": "published",
+    "order": 16
+  },
+  {
+    "slug": "geo-2",
+    "title": "Geography Documentary Vol. 2",
+    "category": "3D Map & Geography",
+    "description": "Animated border highlights and satellite zooms.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1LuT31afWldGny3vPxumaMltdJz_Dh8dM/view",
+    "software": [
+      "After Effects",
+      "Google Earth Studio"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 17
+  },
+  {
+    "slug": "geo-3",
+    "title": "Geography Documentary Vol. 3",
+    "category": "3D Map & Geography",
+    "description": "Satellite-to-street camera zooms.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1aGNK1r64SCmKBN7nSjlcIYjTiKTgrUTi/view",
+    "software": [
+      "After Effects",
+      "Google Earth Studio"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 18
+  },
+  {
+    "slug": "other-1",
+    "title": "SaaS / UI Motion",
+    "category": "SaaS",
+    "description": "Abstracted UI cards and smooth cursor choreography.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1Atc6ygN4qzN3UZZFpvw8rJa1haO9cqtZ/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 19
+  },
+  {
+    "slug": "other-2",
+    "title": "Apple UI Style",
+    "category": "Apple UI",
+    "description": "Bento-box grid layouts and 3D device sweeps.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1OaYaHZB5yeJeyEkxhv4uYm1WCkJUaRu8/view",
+    "software": [
+      "After Effects"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 20
+  },
+  {
+    "slug": "other-3",
+    "title": "Tutorial & How-To",
+    "category": "Tutorial & How-To",
+    "description": "Picture-in-picture webcam overlays and highlight callouts.",
+    "thumbnail": "",
+    "videoUrl": "https://drive.google.com/file/d/1bImdE-eYvHQIIJp7xLzcg-_yFJk2vbF6/view",
+    "software": [
+      "Premiere Pro"
+    ],
+    "featured": false,
+    "status": "published",
+    "order": 21
   }
 ]
